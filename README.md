@@ -73,7 +73,7 @@ Watch Modal’s dashboard to see containers spin up and scale back down automati
 
 ## Project Structure
 ```
-app.py     # Modal app definition + Claude integration
+functions/ed_sentiment_analysis/app.py     # Modal app definition + Claude integration
 README.me  # Project overview and usage
 ```
 

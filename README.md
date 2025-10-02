@@ -1,7 +1,8 @@
 # ED Sentiment Warning API
 
 This project is a mini-app built on [Modal](https://modal.com/) that uses [Anthropic’s Claude](https://docs.anthropic.com/) to detect and flag potentially harmful eating-disorder–related captions (e.g. TikTok, Reels, or other social posts).  
-It returns short, supportive warnings similar to the overlays you might see on TikTok, designed to protect viewers and encourage recovery-minded messaging.
+It builds upon my more extensive college research on semi supervised transfer learning for eating disorder sentiment analysis:  [Transfer Learning for Eating Disorder Sentiment Analysis]([https://docs.anthropic.com/](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_116620290.pdf)) 
+The endpoint returns short, supportive warnings similar to the overlays you might see on TikTok, designed to protect viewers and encourage recovery-minded messaging.
 
 ## Features
 
